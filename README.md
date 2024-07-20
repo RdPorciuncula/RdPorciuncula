@@ -1,4 +1,4 @@
-## Olá! Eu sou Rodrigo Porciuncula - Desenvolvedor de Aplicações
+## Olá! Eu sou Rodrigo Porciuncula 💻 🇧🇷
 <div>
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api?username=RdPorciuncula&show_icons=true&theme=github_dark" media="(prefers-color-scheme: dark)"/>
@@ -7,7 +7,7 @@
   </picture>
     
   <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RdPorciuncula&size_weight=0.5&count_weight=0.5&layout=donut"/>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RdPorciuncula&size_weight=0.5&count_weight=0.5&layout=donut&theme=blue_navy"/>
     <img src="https://github-readme-stats.vercel.app/api?username=RdPorciuncula&show_icons=true" />
   </picture>
 </div>
